@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/nugget_steel_recycle_shovel": {
+    "criteria": {
+      "has_shovel_steel": "2024-08-19 21:51:53 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2024-08-10 21:54:03 -0400"
@@ -95,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 21:42:58 -0400"
@@ -110,6 +122,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-08-12 00:58:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-08-19 00:23:08 -0400"
     },
     "done": true
   },
@@ -251,15 +269,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-08-19 00:23:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-08-10 22:31:19 -0400"
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-08-19 23:26:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-08-10 21:44:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-08-19 00:23:09 -0400"
     },
     "done": true
   },
@@ -398,6 +434,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 21:42:58 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_metalbarrel": {
+    "criteria": {
+      "has_minecart": "2024-08-19 23:34:48 -0400"
     },
     "done": true
   },
@@ -551,6 +593,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodencrate": {
+    "criteria": {
+      "has_minecart": "2024-08-19 23:34:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-08-12 00:58:13 -0400"
@@ -584,6 +632,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-08-12 01:49:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-08-19 00:23:09 -0400"
     },
     "done": true
   },
@@ -629,6 +683,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/nugget_steel_recycle_sword_from_blasting": {
+    "criteria": {
+      "has_sword_steel": "2024-08-19 00:25:12 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/raw_nickel_to_raw_block_nickel": {
     "criteria": {
       "has_raw_nickel": "2024-08-10 22:56:03 -0400"
@@ -665,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-08-19 23:34:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-08-10 23:50:28 -0400"
@@ -698,6 +764,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-08-10 21:59:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
     },
     "done": true
   },
@@ -785,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-08-19 00:45:17 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 21:42:58 -0400"
@@ -858,6 +936,7 @@
       "minecraft:phantom": "2024-08-11 00:06:23 -0400",
       "minecraft:zombified_piglin": "2024-08-14 23:24:10 -0400",
       "minecraft:witch": "2024-08-15 01:28:38 -0400",
+      "minecraft:cave_spider": "2024-08-19 01:24:26 -0400",
       "minecraft:piglin": "2024-08-10 23:21:10 -0400",
       "minecraft:zombie": "2024-08-10 21:38:46 -0400",
       "minecraft:drowned": "2024-08-12 00:12:11 -0400",
@@ -919,6 +998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-08-10 21:57:50 -0400"
@@ -934,6 +1019,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-08-10 21:49:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-08-19 00:23:09 -0400"
     },
     "done": true
   },
@@ -1000,6 +1091,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 21:42:58 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/nugget_steel_recycle_steel_feet_from_blasting": {
+    "criteria": {
+      "has_armor_steel_feet": "2024-08-19 00:27:02 -0400"
     },
     "done": true
   },
@@ -1084,6 +1181,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-08-10 21:31:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
     },
     "done": true
   },
@@ -1219,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-08-19 23:26:12 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2024-08-10 22:49:46 -0400"
@@ -1237,15 +1346,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-08-19 00:23:09 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_hv": {
     "criteria": {
       "has_steel_ingot": "2024-08-10 23:30:11 -0400"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 21:42:58 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/nugget_steel_recycle_steel_legs_from_blasting": {
+    "criteria": {
+      "has_armor_steel_legs": "2024-08-19 00:26:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-08-19 00:23:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-08-19 00:23:09 -0400"
     },
     "done": true
   },
@@ -1306,6 +1445,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-08-10 21:54:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-08-19 23:26:10 -0400"
     },
     "done": true
   },
@@ -1411,9 +1556,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/nugget_steel_recycle_steel_legs": {
+    "criteria": {
+      "has_armor_steel_legs": "2024-08-19 00:26:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-08-11 00:13:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-08-19 00:45:17 -0400"
     },
     "done": true
   },
@@ -1694,6 +1851,7 @@
       "minecraft:cold_ocean": "2024-08-11 00:46:26 -0400",
       "minecraft:forest": "2024-08-11 00:09:31 -0400",
       "minecraft:lush_caves": "2024-08-12 01:54:38 -0400",
+      "minecraft:deep_cold_ocean": "2024-08-19 23:09:29 -0400",
       "minecraft:desert": "2024-08-10 21:27:10 -0400",
       "minecraft:jungle": "2024-08-11 00:13:43 -0400",
       "minecraft:ocean": "2024-08-11 00:22:34 -0400",
@@ -1740,6 +1898,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-08-10 21:31:27 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/nugget_steel_recycle_sword": {
+    "criteria": {
+      "has_sword_steel": "2024-08-19 00:25:12 -0400"
     },
     "done": true
   },
@@ -1839,6 +2003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2024-08-12 02:05:05 -0400"
@@ -1929,9 +2099,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 21:42:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-08-19 23:34:48 -0400"
     },
     "done": true
   },
@@ -2079,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-08-10 21:49:35 -0400"
@@ -2112,6 +2300,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-08-10 21:48:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-08-19 23:26:11 -0400"
     },
     "done": true
   },
@@ -2259,6 +2453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-08-19 23:34:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-08-10 22:02:58 -0400"
@@ -2349,6 +2549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-08-19 23:34:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-08-10 22:02:17 -0400"
@@ -2379,9 +2585,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodenbarrel": {
+    "criteria": {
+      "has_minecart": "2024-08-19 23:34:48 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_stick": "2024-08-10 21:28:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
     },
     "done": true
   },
@@ -2530,7 +2748,9 @@
       "cooked_beef": "2024-08-10 21:35:02 -0400",
       "cooked_cod": "2024-08-15 00:31:34 -0400",
       "bread": "2024-08-11 00:22:12 -0400",
+      "golden_apple": "2024-08-20 00:24:14 -0400",
       "rotten_flesh": "2024-08-10 21:47:10 -0400",
+      "golden_carrot": "2024-08-19 21:52:48 -0400",
       "cooked_salmon": "2024-08-14 16:53:46 -0400"
     },
     "done": false
@@ -2800,6 +3020,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/nugget_steel_recycle_shovel_from_blasting": {
+    "criteria": {
+      "has_shovel_steel": "2024-08-19 21:51:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-08-10 21:57:50 -0400"
@@ -2875,6 +3101,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-08-14 16:55:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-08-19 00:23:09 -0400"
     },
     "done": true
   },
@@ -3040,6 +3272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-08-19 00:23:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-08-11 23:58:32 -0400"
@@ -3067,6 +3305,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/heavy_engineering": {
     "criteria": {
       "has_component_steel": "2024-08-12 01:25:00 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/upgrade_drill": {
+    "criteria": {
+      "code_trigger": "2024-08-19 23:41:56 -0400"
     },
     "done": true
   },
@@ -3157,6 +3401,24 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-08-11 23:58:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_reinforcedcrate": {
+    "criteria": {
+      "has_minecart": "2024-08-19 23:34:48 -0400"
     },
     "done": true
   },
@@ -3253,6 +3515,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-08-10 21:37:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-08-19 23:23:15 -0400"
     },
     "done": true
   },
@@ -3394,6 +3662,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_to_ingot_steel": {
+    "criteria": {
+      "has_nugget_steel": "2024-08-19 21:51:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-08-10 21:48:33 -0400"
@@ -3475,6 +3749,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-08-12 01:49:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-08-19 00:45:17 -0400"
     },
     "done": true
   },
@@ -3601,6 +3881,12 @@
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2024-08-14 16:54:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-08-19 00:23:08 -0400"
     },
     "done": true
   },
@@ -3892,6 +4178,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/nugget_steel_recycle_steel_feet": {
+    "criteria": {
+      "has_armor_steel_feet": "2024-08-19 00:27:02 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/multiblocks_root": {
     "criteria": {
       "has_item": "2024-08-10 23:30:11 -0400"
@@ -3982,6 +4274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-08-19 23:23:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-08-11 17:34:30 -0400"
@@ -4003,6 +4301,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-08-10 22:50:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-08-19 00:50:59 -0400"
     },
     "done": true
   },
@@ -4114,6 +4418,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-08-18 23:55:49 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2024-08-10 22:49:46 -0400"
@@ -4132,9 +4448,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2024-08-19 23:29:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-08-10 22:50:32 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_steel_to_nugget_steel": {
+    "criteria": {
+      "has_the_recipe": "2024-08-19 21:51:44 -0400"
     },
     "done": true
   },
