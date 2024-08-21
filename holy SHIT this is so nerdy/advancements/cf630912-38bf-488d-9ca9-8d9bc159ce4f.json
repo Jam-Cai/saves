@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_constantan_hammering": {
+    "criteria": {
+      "has_constantan_ingot": "2024-08-20 22:49:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 22:46:09 -0400"
@@ -152,6 +158,12 @@
   "immersiveengineering:main/creosote": {
     "criteria": {
       "has_item": "2024-08-15 01:00:07 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2024-08-20 22:48:58 -0400"
     },
     "done": true
   },
@@ -797,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-08-20 21:38:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-08-10 22:00:02 -0400"
@@ -884,6 +902,12 @@
   "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust_from_blasting": {
     "criteria": {
       "has_dust_iron": "2024-08-11 18:45:45 -0400"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-08-20 20:58:23 -0400"
     },
     "done": true
   },
@@ -1574,6 +1598,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2024-08-20 23:10:25 -0400",
       "minecraft:cow": "2024-08-11 00:53:53 -0400",
       "minecraft:chicken": "2024-08-12 21:06:47 -0400"
     },
@@ -1873,6 +1898,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_constantan_to_storage_constantan": {
+    "criteria": {
+      "has_ingot_constantan": "2024-08-20 22:49:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-08-10 21:58:05 -0400"
@@ -1948,6 +1979,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_black": {
     "criteria": {
       "has_sheetmetal": "2024-08-11 21:17:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-08-20 22:48:58 -0400"
     },
     "done": true
   },
@@ -2200,6 +2237,13 @@
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "has_item": "2024-08-10 22:56:57 -0400"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-08-20 20:58:23 -0400",
+      "inv_changed-diamond": "2024-08-20 20:58:23 -0400"
     },
     "done": true
   },
@@ -2791,6 +2835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-08-20 21:35:19 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-08-10 22:50:05 -0400"
@@ -2928,6 +2978,7 @@
       "minecraft:wither_skeleton": "2024-08-12 00:01:12 -0400",
       "minecraft:piglin": "2024-08-11 21:44:39 -0400",
       "minecraft:enderman": "2024-08-11 00:05:49 -0400",
+      "minecraft:silverfish": "2024-08-20 22:16:48 -0400",
       "minecraft:vex": "2024-08-15 01:30:55 -0400",
       "minecraft:zombie": "2024-08-10 22:41:36 -0400",
       "minecraft:drowned": "2024-08-10 21:54:48 -0400",
@@ -3196,6 +3247,12 @@
   "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust": {
     "criteria": {
       "has_dust_iron": "2024-08-11 18:45:45 -0400"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-08-20 20:58:23 -0400"
     },
     "done": true
   },
@@ -3543,6 +3600,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_constantan_to_ingot_constantan": {
+    "criteria": {
+      "has_storage_constantan": "2024-08-20 22:49:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 22:46:09 -0400"
@@ -3552,6 +3615,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-08-14 23:21:48 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2024-08-20 22:48:58 -0400"
     },
     "done": true
   },
@@ -3594,6 +3663,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-08-11 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-08-20 22:48:58 -0400"
     },
     "done": true
   },
@@ -3888,6 +3963,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-08-10 23:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-08-20 21:38:56 -0400"
     },
     "done": true
   },
@@ -4292,9 +4373,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel2": {
+    "criteria": {
+      "has_deepslate_ore_nickel": "2024-08-20 21:40:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-08-19 01:24:30 -0400"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-08-20 20:58:23 -0400"
     },
     "done": true
   },
@@ -4634,6 +4727,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_uranium2": {
+    "criteria": {
+      "has_deepslate_ore_uranium": "2024-08-20 21:48:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-08-14 23:41:47 -0400"
@@ -4754,6 +4853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-08-20 21:35:19 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-08-10 22:33:37 -0400"
@@ -4775,6 +4880,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-08-10 23:07:37 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel_from_blasting2": {
+    "criteria": {
+      "has_deepslate_ore_nickel": "2024-08-20 21:40:44 -0400"
     },
     "done": true
   },
@@ -4937,6 +5048,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2024-08-19 23:51:15 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_uranium_from_blasting2": {
+    "criteria": {
+      "has_deepslate_ore_uranium": "2024-08-20 21:48:06 -0400"
     },
     "done": true
   },
