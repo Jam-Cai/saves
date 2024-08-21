@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/shield": {
+    "criteria": {
+      "has_shield": "2024-08-21 00:12:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-08-10 22:55:08 -0400"
@@ -176,6 +182,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-08-11 00:57:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-08-21 00:55:22 -0400"
     },
     "done": true
   },
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-08-21 00:55:18 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_from_standard": {
     "criteria": {
       "has_steel_scaffolding_standard": "2024-08-11 00:14:40 -0400"
@@ -440,6 +458,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 21:31:28 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_powerpack_antenna": {
+    "criteria": {
+      "has_powerpack": "2024-08-20 23:20:57 -0400"
     },
     "done": true
   },
@@ -647,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-08-21 01:48:07 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_feet": {
     "criteria": {
       "has_steel_plate": "2024-08-10 23:50:10 -0400"
@@ -707,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-08-20 23:46:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-08-11 21:41:00 -0400"
@@ -758,6 +794,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2024-08-10 23:31:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-08-20 23:46:34 -0400"
     },
     "done": true
   },
@@ -1079,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-08-21 02:17:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-08-11 18:42:13 -0400"
@@ -1155,6 +1203,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_aluminum": {
     "criteria": {
       "has_aluminum_ingot": "2024-08-10 23:32:41 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluorescent_tube": {
+    "criteria": {
+      "has_electrode": "2024-08-21 01:38:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-08-21 01:48:07 -0400"
     },
     "done": true
   },
@@ -1470,6 +1530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-08-21 00:36:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2024-08-12 01:34:19 -0400"
@@ -1506,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-08-21 02:17:06 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/glider": {
     "criteria": {
       "has_hemp_fabric": "2024-08-12 01:39:42 -0400"
@@ -1539,6 +1611,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 21:31:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-08-21 01:48:07 -0400"
     },
     "done": true
   },
@@ -1650,6 +1728,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/villager": {
+    "criteria": {
+      "meet_machinist": "2024-08-21 01:00:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-08-10 21:35:17 -0400"
@@ -1678,6 +1762,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2024-08-10 21:31:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-08-21 01:48:07 -0400"
     },
     "done": true
   },
@@ -1714,6 +1804,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-08-10 21:33:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-08-21 00:36:32 -0400"
     },
     "done": true
   },
@@ -1822,6 +1918,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_silver_from_blasting3": {
     "criteria": {
       "has_raw_silver": "2024-08-11 00:29:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-08-21 00:55:22 -0400"
     },
     "done": true
   },
@@ -2173,6 +2275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-08-21 01:48:07 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/mb_refinery": {
     "criteria": {
       "form_multiblock": "2024-08-11 21:21:58 -0400"
@@ -2332,6 +2440,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-08-10 22:55:08 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_arcfurnace": {
+    "criteria": {
+      "form_multiblock": "2024-08-21 01:19:37 -0400"
     },
     "done": true
   },
@@ -2531,6 +2645,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2024-08-11 23:58:22 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_steel_to_nugget_steel": {
+    "criteria": {
+      "has_ingot_steel": "2024-08-21 02:01:51 -0400"
     },
     "done": true
   },
@@ -2744,6 +2864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-08-21 00:55:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-08-10 21:30:56 -0400"
@@ -2753,6 +2879,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-08-10 21:31:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-08-21 00:19:30 -0400"
     },
     "done": true
   },
@@ -3175,6 +3307,7 @@
       "minecraft:phantom": "2024-08-11 00:06:24 -0400",
       "minecraft:zombified_piglin": "2024-08-12 19:56:55 -0400",
       "minecraft:piglin": "2024-08-12 23:20:19 -0400",
+      "minecraft:enderman": "2024-08-20 23:54:59 -0400",
       "minecraft:zombie": "2024-08-10 22:46:54 -0400",
       "minecraft:drowned": "2024-08-12 21:22:04 -0400"
     },
@@ -3453,6 +3586,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-08-12 23:34:12 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_powerpack": {
+    "criteria": {
+      "has_item": "2024-08-20 23:20:57 -0400"
     },
     "done": true
   },
@@ -3738,6 +3877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-08-21 01:48:07 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_to_storage_nickel": {
     "criteria": {
       "has_ingot_nickel": "2024-08-11 18:35:29 -0400"
@@ -3759,6 +3904,18 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-08-10 22:46:54 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_powerpack_induction": {
+    "criteria": {
+      "has_powerpack": "2024-08-20 23:20:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-08-21 01:48:07 -0400"
     },
     "done": true
   },
@@ -3861,6 +4018,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick": {
     "criteria": {
       "has_brick": "2024-08-10 22:11:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-08-21 00:55:18 -0400"
     },
     "done": true
   },
@@ -4170,6 +4333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-08-21 01:48:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-08-15 00:23:45 -0400"
@@ -4221,6 +4390,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/fluid_sorter": {
     "criteria": {
       "has_fluid_pipe": "2024-08-11 21:16:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-08-21 00:55:18 -0400"
     },
     "done": true
   },
@@ -4352,6 +4527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-08-21 01:48:07 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wooden_grip": {
     "criteria": {
       "has_treated_sticks": "2024-08-10 22:29:17 -0400"
@@ -4463,6 +4644,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-08-10 21:38:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-08-21 00:55:18 -0400"
     },
     "done": true
   },
@@ -4712,6 +4899,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-08-21 01:48:07 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_powerpack_tesla": {
+    "criteria": {
+      "has_powerpack": "2024-08-20 23:20:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-08-10 21:30:47 -0400"
@@ -4754,6 +4953,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_to_ingot_steel": {
+    "criteria": {
+      "has_nugget_steel": "2024-08-21 02:01:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-08-10 21:48:23 -0400"
@@ -4769,6 +4974,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-08-11 18:30:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-08-21 00:55:18 -0400"
     },
     "done": true
   },
@@ -4841,6 +5052,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick_from_slab": {
     "criteria": {
       "has_cokebrick": "2024-08-10 22:12:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-08-21 01:48:07 -0400"
     },
     "done": true
   },
@@ -5195,6 +5412,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-08-11 18:27:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-08-20 23:58:41 -0400"
     },
     "done": true
   },
